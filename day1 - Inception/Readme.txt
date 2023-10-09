@@ -1,6 +1,6 @@
 Namaste React Notes -
 
-1.	Emmet command - Type in vs code file for boiler plate code
+1.	Emmet command - Type in vs code file for boiler plate code creation
 	html:5			- for html boiler plate code
 
 2.	CDN react - get react library from CDN and inject into your file
